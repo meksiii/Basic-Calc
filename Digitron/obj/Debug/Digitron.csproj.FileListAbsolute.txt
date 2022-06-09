@@ -1,0 +1,42 @@
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\obj\Debug\Digitron.Form1.resources
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\obj\Debug\Digitron.csproj.GenerateResource.Cache
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\bin\Debug\Digitron.exe
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\bin\Debug\Digitron.pdb
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\obj\Debug\Digitron.exe
+C:\Users\skola-CRS\AppData\Local\Temporary Projects\Digitron\obj\Debug\Digitron.pdb
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\obj\Debug\Digitron.exe
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\obj\Debug\Digitron.pdb
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\bin\Debug\Digitron.exe
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\bin\Debug\Digitron.pdb
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\obj\Debug\Digitron.Form1.resources
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+C:\Users\skola-CRS\Desktop\D\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.Cache
+G:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.exe
+G:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.pdb
+G:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\ResolveAssemblyReference.cache
+G:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.Form1.resources
+G:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+G:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.Cache
+G:\Praxa Visual . Studio\D\Digitron\Digitron\bin\Debug\Digitron.exe
+G:\Praxa Visual . Studio\D\Digitron\Digitron\bin\Debug\Digitron.pdb
+E:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.exe
+E:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.pdb
+E:\Praxa Visual . Studio\D\Digitron\Digitron\bin\Debug\Digitron.exe
+E:\Praxa Visual . Studio\D\Digitron\Digitron\bin\Debug\Digitron.pdb
+E:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\ResolveAssemblyReference.cache
+E:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.Form1.resources
+E:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+E:\Praxa Visual . Studio\D\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.Cache
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\obj\Debug\Digitron.exe
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\obj\Debug\Digitron.pdb
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\bin\Debug\Digitron.exe
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\bin\Debug\Digitron.pdb
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\obj\Debug\Digitron.Form1.resources
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+C:\Users\ATLANTA\Desktop\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.Cache
+C:\Users\ATLANTA\Desktop\ŠKOLA\Digitron\Digitron\obj\Debug\Digitron.exe
+C:\Users\ATLANTA\Desktop\ŠKOLA\Digitron\Digitron\obj\Debug\Digitron.pdb
